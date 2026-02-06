@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "generated": "2026-02-06",
+    "purpose": "Keywords for semantic crawler to track Expanso's competitive landscape",
+    "categories": [
+      "product_terms",
+      "competitor_brands",
+      "pain_points",
+      "use_cases",
+      "technical_terms",
+      "buying_signals"
+    ]
+  },
+  "product_terms": {
+    "description": "Terms directly related to Expanso's product category",
+    "keywords": [
+      "edge data processing",
+      "edge data pipelines",
+      "edge computing data",
+      "data pipeline at edge",
+      "edge stream processing",
+      "edge ETL",
+      "edge data transformation",
+      "lightweight data agents",
+      "distributed data processing",
+      "edge AI inference",
+      "edge ML inference",
+      "ONNX edge deployment",
+      "visual pipeline builder",
+      "data pipeline visual editor",
+      "streaming data transformation",
+      "real-time data processing",
+      "data filtering at source",
+      "pre-cloud data processing",
+      "managed data pipelines",
+      "SaaS data pipeline",
+      "data pipeline orchestration",
+      "observability pipeline",
+      "log processing pipeline",
+      "data governance edge"
+    ]
+  },
+  "competitor_brands": {
+    "description": "Direct and indirect competitor brand names",
+    "primary_competitors": [
+      "Cribl",
+      "Cribl Stream",
+      "Cribl Edge",
+      "Apache Flink",
+      "Flink streaming",
+      "Elastic Beats",
+      "Logstash",
+      "ELK stack",
+      "Vector Datadog",
+      "Fluent Bit",
+      "Fluentd"
+    ],
+    "cloud_platforms": [
+      "Snowflake",
+      "Snowflake costs",
+      "Snowflake optimization",
+      "Databricks",
+      "Databricks costs",
+      "Databricks lakehouse",
+      "BigQuery",
+      "BigQuery costs",
+      "Amazon Redshift",
+      "Redshift costs"
+    ],
+    "orchestration": [
+      "Apache Airflow",
+      "Dagster",
+      "Dagster cloud",
+      "Prefect",
+      "Prefect cloud",
+      "Temporal io",
+      "Argo Workflows"
+    ],
+    "distributed_compute": [
+      "Apache Spark",
+      "Spark Streaming",
+      "Ray Anyscale",
+      "Dask distributed",
+      "Apache Beam"
+    ],
+    "streaming": [
+      "Apache Kafka",
+      "Confluent",
+      "Apache Pulsar",
+      "Redpanda",
+      "Amazon Kinesis",
+      "Azure Event Hubs"
+    ],
+    "observability": [
+      "Elastic",
+      "Elasticsearch",
+      "Splunk",
+      "Datadog",
+      "New Relic",
+      "Sumo Logic",
+      "Grafana Loki"
+    ],
+    "databases": [
+      "MongoDB",
+      "ClickHouse",
+      "TimescaleDB",
+      "InfluxDB",
+      "QuestDB"
+    ]
+  },
+  "pain_points": {
+    "description": "Problems that Expanso solves - track discussions around these",
+    "cost_related": [
+      "Snowflake cost reduction",
+      "reduce Snowflake bill",
+      "Snowflake too expensive",
+      "Databricks cost optimization",
+      "Elastic bill too high",
+      "Splunk costs",
+      "observability costs",
+      "cloud data warehouse costs",
+      "data storage costs",
+      "reduce data ingestion costs",
+      "control cloud spending"
+    ],
+    "data_volume": [
+      "too much log data",
+      "log volume explosion",
+      "reduce log volume",
+      "filter unnecessary logs",
+      "aggregate sensor data",
+      "IoT data volume",
+      "data reduction strategies",
+      "sample vs store all data"
+    ],
+    "latency": [
+      "reduce data latency",
+      "real-time analytics latency",
+      "edge processing latency",
+      "low latency data processing",
+      "millisecond data processing"
+    ],
+    "compliance": [
+      "PII in logs",
+      "mask PII data",
+      "GDPR data processing",
+      "CCPA compliance",
+      "data masking requirements",
+      "sensitive data in logs",
+      "compliance at edge"
+    ],
+    "complexity": [
+      "Flink too complex",
+      "Spark complexity",
+      "simplify data pipelines",
+      "easier than Logstash",
+      "no code data pipelines",
+      "visual data pipeline"
+    ]
+  },
+  "use_cases": {
+    "description": "Specific use cases Expanso addresses",
+    "observability": [
+      "log filtering",
+      "log routing",
+      "log transformation",
+      "log enrichment",
+      "metrics aggregation",
+      "trace sampling",
+      "observability data reduction"
+    ],
+    "iot_edge": [
+      "IoT data aggregation",
+      "sensor data processing",
+      "edge analytics IoT",
+      "industrial IoT data",
+      "manufacturing data processing",
+      "OT data processing",
+      "SCADA data processing"
+    ],
+    "ai_ml": [
+      "edge AI inference",
+      "ML at the edge",
+      "real-time fraud detection",
+      "anomaly detection edge",
+      "predictive maintenance edge",
+      "AI data preparation",
+      "feature engineering pipeline",
+      "data quality for AI"
+    ],
+    "streaming": [
+      "Kafka preprocessing",
+      "stream transformation",
+      "event filtering",
+      "CDC processing",
+      "real-time ETL",
+      "streaming aggregation"
+    ]
+  },
+  "technical_terms": {
+    "description": "Technical concepts related to Expanso's domain",
+    "processing": [
+      "stream processing",
+      "event processing",
+      "data transformation",
+      "ETL pipeline",
+      "ELT pipeline",
+      "data enrichment",
+      "data filtering",
+      "data sampling",
+      "data aggregation",
+      "windowed aggregation"
+    ],
+    "architecture": [
+      "edge computing",
+      "fog computing",
+      "distributed systems",
+      "microservices data",
+      "event-driven architecture",
+      "data mesh",
+      "data fabric"
+    ],
+    "formats": [
+      "JSON parsing",
+      "log parsing",
+      "regex extraction",
+      "syslog parsing",
+      "CSV processing",
+      "Avro processing",
+      "Protobuf processing"
+    ],
+    "integrations": [
+      "Kafka connector",
+      "Snowflake connector",
+      "S3 sink",
+      "Elasticsearch sink",
+      "Datadog integration",
+      "Splunk HEC",
+      "HTTP webhook"
+    ]
+  },
+  "buying_signals": {
+    "description": "Phrases indicating active evaluation or buying intent",
+    "evaluation": [
+      "Cribl alternative",
+      "Cribl vs",
+      "Flink alternative",
+      "Logstash alternative",
+      "Logstash replacement",
+      "edge data platform comparison",
+      "stream processing comparison",
+      "data pipeline tools comparison"
+    ],
+    "migration": [
+      "migrate from Logstash",
+      "replace Logstash",
+      "migrate from Flink",
+      "simplify Spark jobs",
+      "reduce Kafka complexity"
+    ],
+    "evaluation_phrases": [
+      "looking for edge processing",
+      "need to reduce data costs",
+      "evaluating data pipelines",
+      "best tool for log filtering",
+      "how to filter logs before",
+      "how to reduce Snowflake costs"
+    ]
+  },
+  "long_tail_queries": {
+    "description": "Longer search queries with high intent",
+    "cost_optimization": [
+      "how to reduce Snowflake compute costs",
+      "reduce Elastic ingestion costs",
+      "filter logs before Splunk",
+      "aggregate data before cloud",
+      "pay less for cloud data warehouse"
+    ],
+    "how_to": [
+      "how to process data at the edge",
+      "how to run ML models at edge",
+      "how to filter logs in pipeline",
+      "how to mask PII in logs",
+      "how to aggregate IoT sensor data"
+    ],
+    "comparison": [
+      "Cribl vs Logstash vs",
+      "Flink vs Spark Streaming",
+      "best edge data processing tool",
+      "visual data pipeline builder tools",
+      "managed stream processing service"
+    ]
+  },
+  "semantic_clusters": {
+    "description": "Grouped concepts for semantic search",
+    "cost_reduction": [
+      "cost", "reduce", "save", "optimize", "expensive", "bill", "spend", "budget", "roi"
+    ],
+    "edge_processing": [
+      "edge", "source", "local", "on-prem", "distributed", "lightweight", "agent"
+    ],
+    "real_time": [
+      "real-time", "streaming", "low-latency", "instant", "millisecond", "live"
+    ],
+    "ai_intelligence": [
+      "AI", "ML", "inference", "model", "prediction", "detection", "classification"
+    ],
+    "simplicity": [
+      "simple", "easy", "visual", "no-code", "drag-drop", "managed", "serverless"
+    ]
+  },
+  "negative_keywords": {
+    "description": "Terms to exclude - not relevant to Expanso",
+    "keywords": [
+      "text expander",
+      "expanso typing",
+      "keyboard shortcuts",
+      "auto text",
+      "snippet manager"
+    ]
+  },
+  "tracking_priority": {
+    "high": [
+      "Cribl",
+      "Snowflake costs",
+      "edge data processing",
+      "log filtering",
+      "reduce observability costs",
+      "Flink alternative"
+    ],
+    "medium": [
+      "Databricks costs",
+      "IoT edge processing",
+      "stream processing tools",
+      "Logstash replacement",
+      "data pipeline visual"
+    ],
+    "low": [
+      "Apache Kafka",
+      "Airflow",
+      "general streaming",
+      "data warehouse comparison"
+    ]
+  }
+}
